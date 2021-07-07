@@ -1,0 +1,2 @@
+# YGONaruto
+YGO Naruto Plugin
