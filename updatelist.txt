@@ -7,5 +7,5 @@ plugins/YGONaruto/version.txt	https://raw.githubusercontent.com/FernanOyana/YGON
 plugins/YGONaruto/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/cardback.jpg	181649
 plugins/YGONaruto/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/spawned.jpg	181649
 CardGeneralURLs:
-https://drive.google.com/drive/folders/1UrMj1Z09-QdGbxDBKkTgfueEJx9QRA4A?usp=sharing
+https://www.dropbox.com/sh/e5padac59sabnnq/AABZ6N_wZ3AJWWdbyvPYyntba?dl=0
 
