@@ -6,7 +6,6 @@ plugins/YGONaruto/sets/CardData1.txt	https://raw.githubusercontent.com/FernanOya
 plugins/YGONaruto/version.txt	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/version.txt	27010
 plugins/YGONaruto/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/cardback.jpg	181649
 plugins/YGONaruto/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/spawned.jpg	181649
-plugins/YGONaruto/sets/setimages/general/abanico.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/abanico.jpg  193614	
-plugins/YGONaruto/sets/setimages/general/kakashishippuden.jpg https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/kakashishippuden.jpg 109144
-
+CardGeneralURLs:
+https://github.com/FernanOyana/YGONaruto
 
