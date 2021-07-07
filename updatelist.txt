@@ -7,6 +7,6 @@ plugins/YGONaruto/sets/setimages/general/cardback.jpg	https://raw.githubusercont
 plugins/YGONaruto/sets/setimages/general/spawned.jpg https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/spawned.jpg	181649
 plugins/YGONaruto/sets/CardData1.txt	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/CardData1.txt	15404560
 plugins/YGONaruto/sets/setimages/general/abanico	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/abanico.jpg	181649	
-CardGeneralURLs:
-https://drive.google.com/drive/folders/1UrMj1Z09-QdGbxDBKkTgfueEJx9QRA4A?usp=sharing
+CardImageURLs:
+https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/abanico.jpg
 
