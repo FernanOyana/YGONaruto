@@ -2,7 +2,7 @@
 
 <lastupdateYYMMDD>130814</lastupdateYYMMDD>
 <quality>high</quality>
-<versionurl>https://drive.google.com/file/d/1iLNWbHMExhnrPR7iSYDzQHSEyHi4MQ9k/view?usp=sharing</versionurl>
+<versionurl>https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/updatelist.txt</updateurl>
 
 </version>
