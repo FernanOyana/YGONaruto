@@ -8,4 +8,6 @@ plugins/YGONaruto/sets/setimages/general/cardback.jpg	https://raw.githubusercont
 plugins/YGONaruto/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/spawned.jpg	181649
 CardImageURLs:
 general/kakashishippuden.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/kakashishippuden.jpg
+general/narutoshippuden.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/narutoshippuden.jpg
+
 
