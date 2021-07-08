@@ -6,6 +6,6 @@ plugins/YGONaruto/sets/CardData1.txt	https://raw.githubusercontent.com/FernanOya
 plugins/YGONaruto/version.txt	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/version.txt	27010
 plugins/YGONaruto/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/cardback.jpg	181649
 plugins/YGONaruto/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/spawned.jpg	181649
-CardGeneralURLs:
-https://imageshack.com/a/Ax6w7/1
+CardImageURLs:
+general/kakashishippuden.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/kakashishippuden.jpg
 
