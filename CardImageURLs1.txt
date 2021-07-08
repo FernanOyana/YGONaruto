@@ -1,0 +1,3 @@
+CardImageURLs:
+general/kakashishippuden.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/kakashishippuden.jpg
+general/narutoshippuden.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/narutoshippuden.jpg
