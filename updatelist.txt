@@ -6,5 +6,5 @@ plugins/YGONaruto/sets/CardData1.txt	https://raw.githubusercontent.com/FernanOya
 plugins/YGONaruto/version.txt	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/version.txt	27010
 plugins/YGONaruto/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/cardback.jpg	181649
 plugins/YGONaruto/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/spawned.jpg	181649
-CardImageURLs1:	plugins/YGONaruto/sets/setimages/general/kakashishippuden.jpg	0
-CardImageURLs2:	plugins/YGONaruto/sets/setimages/general/narutoshippuden.jpg	0
+CardImageURLs1:	plugins/YGONaruto/sets/setimages/general/kakashishippuden.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/kakashishippuden.jpg  0
+CardImageURLs2:	plugins/YGONaruto/sets/setimages/general/narutoshippuden.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/narutoshippuden.jpg  0
