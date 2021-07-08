@@ -7,10 +7,6 @@ plugins/YGONaruto/version.txt	https://raw.githubusercontent.com/FernanOyana/YGON
 plugins/YGONaruto/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/cardback.jpg	181649
 plugins/YGONaruto/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/spawned.jpg	181649
 plugins/YGONaruto/CardImageURLs1.txt	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/CardImageURLs1.txt	22814
-CardImageURLs:
-general/kakashishippuden.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/kakashishippuden.jpg
-general/narutoshippuden.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/narutoshippuden.jpg
-
 CardURLFiles:
 CardImageURLs1.txt
 
