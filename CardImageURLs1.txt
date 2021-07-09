@@ -615,7 +615,7 @@ general/uminokuni.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/ma
 general/vallerocoso.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/vallerocoso.jpg
 general/yakumo.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/yakumo.jpg
 general/yurinojo.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/yurinojo.jpg
-
+general/fichaoiroke.jpg https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/fichaoiroke.jpg
 
 
 
