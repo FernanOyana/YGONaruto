@@ -1,6 +1,6 @@
 <version>
 
-<lastupdateYYMMDD>070721</lastupdateYYMMDD>
+<lastupdateYYMMDD>210708</lastupdateYYMMDD>
 <quality>high</quality>
 <versionurl>https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/updatelist.txt</updateurl>
