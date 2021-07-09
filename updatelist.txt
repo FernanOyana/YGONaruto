@@ -6,13 +6,6 @@ plugins/YGONaruto/sets/CardData1.txt	https://raw.githubusercontent.com/FernanOya
 plugins/YGONaruto/version.txt	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/version.txt	27010
 plugins/YGONaruto/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/cardback.jpg	181649
 plugins/YGONaruto/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/spawned.jpg	181649
-plugins/YGONaruto/CardImageURLs1.txt	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/CardImageURLs1.txt	2570388
-plugins/YGONaruto/CardImageURLs2.txt	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/CardImageURLs2.txt	1168423
-plugins/YGONaruto/CardImageURLs3.txt	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/CardImageURLs3.txt	1176606
-plugins/YGONaruto/CardImageURLs4.txt	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/CardImageURLs4.txt	1255646
+plugins/YGONaruto/CardImageURLs1.txt	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/CardImageURLs1.txt	6167082
 CardImageURLs:
 CardImageURLs1.txt
-CardImageURLs2.txt
-CardImageURLs3.txt
-CardImageURLs4.txt
-
