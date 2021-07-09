@@ -1,4 +1,4 @@
-CardImageURLs3:
+CardImageURLs:
 general/tayuya.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/tayuya.jpg
 general/tayuyalvl4.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/tayuyalvl4.jpg
 general/jirobo.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/jirobo.jpg
