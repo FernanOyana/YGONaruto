@@ -1,4 +1,4 @@
-CardImageURLs:
+CardImageURLs2:
 general/orochimaru.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/orochimaru.jpg
 general/yakushikabutolvl4.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/yakushikabutolvl4.jpg
 general/fichaotogakure.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/fichaotogakure.jpg
