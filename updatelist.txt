@@ -9,3 +9,4 @@ plugins/YGONaruto/sets/setimages/general/spawned.jpg	https://raw.githubuserconte
 plugins/YGONaruto/CardImageURLs1.txt	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/CardImageURLs1.txt	6186622
 CardURLFiles:
 CardImageURLs1.txt
+
