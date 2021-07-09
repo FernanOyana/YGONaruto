@@ -1,4 +1,4 @@
-YGONaruto	21-07-09
+YGONaruto	07-09-09
 plugins/YGONaruto/plugininfo.txt	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/plugininfo.txt	378637
 plugins/YGONaruto/defaultchat.txt	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/defaultchat.txt	12905
 plugins/YGONaruto/formats.txt	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/formats.txt	307676
