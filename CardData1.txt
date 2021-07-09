@@ -91,7 +91,7 @@ Kagemane no Jutsu	AST	kagemane	Continuous Trap					2		Debes controlar a "Nara Sh
 
 Robar Chakra	AST	robarchakra	Equip Spell					3		Debes controlar a "Akado Yoroi" para activar esta carta. Durante la Battle Phase de tu turno, si "Akado Yoroi" declara un ataque, puedes activar el siguiente efecto: *Puedes efectuar un ataque sin realizar cálculo de daño. El ninja declarado como objetivo del ataque de "Akado Yoroi" reduce sus puntos de ATK a la mitad. Los puntos reducidos son añadidos a "Akado Yoroi".
 Equipo Kurenai	AST	equipokurenai	Normal Spell					3		Selecciona 1 carta de "Inuzuka Kiba", "Aburame Shino" o "Hyuga Hinata" de tu mazo y añadela a tu mano. Luego mezcla el mazo.
-Baiu	ABPF	baiu	Amegakure Genin	Water	4	1150	1300	3		Un genin de la Aldea de la Lluvia, compañero de Shigure durante el examen de ascenso a Chuunin.
+Baiu	ABPF	Baiu	Amegakure Genin	Water	4	1150	1300	3		Un genin de la Aldea de la Lluvia, compañero de Shigure durante el examen de ascenso a Chuunin.
 Midare	AST	midare	Amegakure Genin	Water	4	1200	1500	3		Un genin de la Aldea de la Lluvia, compañero de Shigure durante el examen de ascenso a Chuunin.
 
 Equipo Asuma	AST	equipoasuma	Normal Spell					3		Selecciona 1 carta de "Yamanaka Ino", "Nara Shikamaru" o "Akimichi Choji" de tu mazo y añadela a tu mano. Luego mezcla el mazo.
@@ -535,7 +535,7 @@ Tres Caminos	DR1	trescaminos	Normal Trap					1		Solo puedes activar si "Castillo
 Kuchiyose: Umibozu	DR1	umibozu	Continuous Spell					2		Debes controlar a "Amachi Forma Kaima" para activar esta carta. Selecciona 1 ninja que tu oponente controla. No podra atacar ni cambiar su posicion de batalla mientras esta carta se encuentre activa en el campo
 Umi no Kuni	DR1	uminokuni	Field Spell					3		Incrementa el ATK y la DEF de todos los ninjas con atributo WATER en 300 puntos. Mientras esta carta permanezca activa en el campo, las cartas de ninja con atributo WATER no pueden ser destruidas como resultado de una batalla. Esta carta no puede ser destruida por efectos de cartas magicas/trampa
 Uzumaki no Jin	DR1	uzumakinojin	Quick-Play Spell					3		Puedes activar esta carta cuando controlas a "Uzumaki Naruto" y 4 "fichas Clon de Sombra". "Uzumaki Naruto" no podra ser declarado como objetivo del ataque de cartas del oponente o destruido mientras controles "fichas Clon de Sombra"
-Akahoshi	DR1	akahoshi	Yondaime Hoshikage/Efecto	Light	6	1900	2200	1		Puedes invocar esta carta de forma especial cuando "Hoshigakure no Sato" esta activa en el campo. Cuando esta carta es invocada con exito, añade 1 "Estrella de Hoshigakure" de tu mazo a tu mano. Mezcla el mazo
+Akahoshi	DR1	Akahoshi	Yondaime Hoshikage/Efecto	Light	6	1900	2200	1		Puedes invocar esta carta de forma especial cuando "Hoshigakure no Sato" esta activa en el campo. Cuando esta carta es invocada con exito, añade 1 "Estrella de Hoshigakure" de tu mazo a tu mano. Mezcla el mazo
 Amachi	DR1	amachi	Otogakure Iryo-nin	Water	4	1600	1500	3		Un ninja medico asociado con Orochimaru. Se encargaba de realizar experimientos para crear perfectos shinobis submarinos
 Amachi Forma Kaima	DR1	amachikaima	Kaima Shinobi/Efecto	Water	5	1800	1750	3		Cuando esta carta es invocada con exito, puedes añadir 1 "Escama Senbon" de tu mazo a tu mano. Mezcla el mazo
 Cazadores ANBU #2	DR1	anbu2	Konohagakure ANBU/Efecto	Dark	4	1600	1600	3		Cualquier carta de ninja del oponente destruida por esta carta es desterrada
