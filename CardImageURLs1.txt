@@ -254,6 +254,7 @@ general/koplanificado.jpg	https://raw.githubusercontent.com/FernanOyana/YGONarut
 general/leenuevo.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/leenuevo.jpg
 general/tentennueva.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/tentennueva.jpg
 general/kuchiyosemakimono.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/kuchiyosemakimono.jpg
+general/Akahoshi.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/Akahoshi.jpg
 
 
 
