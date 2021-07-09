@@ -1,4 +1,4 @@
-CardImageURLs4:
+CardImageURLs:
 general/abuelasansho.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/abuelasansho.jpg
 general/Akahoshi.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/Akahoshi.jpg
 general/aoirokusho.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/aoirokusho.jpg
