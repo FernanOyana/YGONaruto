@@ -618,6 +618,7 @@ general/yurinojo.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/mai
 general/fichaoiroke.jpg https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/fichaoiroke.jpg
 general/magenkokoni.jpg https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/magenkokoni.jpg
 general/sakurashippuden.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/sakurashippuden.jpg
+general/shikamarushippuden.jpg  https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/shikamarushippuden.jpg
 
 
 
