@@ -3,7 +3,7 @@ plugins/YGONaruto/plugininfo.txt	https://raw.githubusercontent.com/FernanOyana/Y
 plugins/YGONaruto/defaultchat.txt	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/defaultchat.txt	12905
 plugins/YGONaruto/formats.txt	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/formats.txt	307676
 plugins/YGONaruto/sets/CardData1.txt	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/CardData1.txt	15378096
-plugins/YGONaruto/sets/CardData2.txt	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/CardData2.txt	89199
+plugins/YGONaruto/sets/CardData2.txt	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/CardData2.txt	64545
 plugins/YGONaruto/version.txt	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/version.txt	27010
 plugins/YGONaruto/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/cardback.jpg	181649
 plugins/YGONaruto/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/spawned.jpg	181649
