@@ -8,6 +8,6 @@ plugins/YGONaruto/version.txt	https://raw.githubusercontent.com/FernanOyana/YGON
 plugins/YGONaruto/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/cardback.jpg	181649
 plugins/YGONaruto/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/spawned.jpg	181649
 plugins/YGONaruto/CardImageURLs1.txt	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/CardImageURLs1.txt	6186622
-CardImageURLs:
+CardURLFiles:
 CardImageURLs1.txt
 
