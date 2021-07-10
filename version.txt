@@ -6,3 +6,4 @@
 <updateurl>https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/updatelist.txt</updateurl>
 
 </version>
+ 
