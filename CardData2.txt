@@ -1,0 +1,4 @@
+Name	Set	ImageFile	Type	Attribute	Level	ATK	DEF	Limit	Format	Text
+Harem no Jutsu	ABPF	harem	Quick-Play Spell					3		Debes controlar a "Uzumaki Naruto". Selecciona una carta de ninja masculino que tu oponente controle. No podra declarar ningun ataque durante el turno en que fue activada esta carta.
+Magen: Kokoni Arazu no Jutsu	CRMS	magenkokoni	Quick-Play Spell					1		Puedes activar esta carta cuando tu oponente declara la invocacion de una carta de tipo "Genin" de nivel 4 (de modo normal).Niega la invocacion de esa carta. Si "Bosque de la Muerte" o "Torre del Bosque" se encuentran activas en el campo, no puedes activar esta carta.
+Ficha Oiroke	DR1	fichaoiroke	Konohagakure Genin	WIND	1	0	0			Esta carta puede ser utilizada como ficha
