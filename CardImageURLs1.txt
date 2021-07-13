@@ -619,14 +619,40 @@ general/fichaoiroke.jpg https://raw.githubusercontent.com/FernanOyana/YGONaruto/
 general/magenkokoni.jpg https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/magenkokoni.jpg
 general/sakurashippuden.jpg	https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/sakurashippuden.jpg
 general/shikamarushippuden.jpg  https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/shikamarushippuden.jpg
-
-
-
-
-
-
-
-
-
-
-
+general/aliadosenbatalla.jpg  https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/aliadosenbatalla.jpg
+general/amachi.jpg  https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/amachi.jpg
+general/amachikaima.jpg https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/amachikaima.jpg
+general/chakrakyubi2.jpg  https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/chakrakyubi2.jpg
+general/chidori.jpg https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/chidori.jpg
+general/choujilvl3efecto.jpg  https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/choujilvl3efecto.jpg
+general/combateparejo.jpg https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/combateparejo.jpg
+general/daikamaitachinojutsu.jpg  https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/daikamaitachinojutsu.jpg
+general/denjigenmu.jpg  https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/denjigenmu.jpg
+general/dispersiondegenjutsu.jpg  https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/dispersiondegenjutsu.jpg
+general/doryuheki.jpg https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/doryuheki.jpg
+general/ejecuciondelheroe.jpg https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/ejecuciondelheroe.jpg
+general/entrenamientodeebisu.jpg  https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/entrenamientodeebisu.jpg
+general/formacion.jpg https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/formacion.jpg
+general/fubakuhojin.jpg https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/fubakuhojin.jpg
+general/gama.jpg  https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/gama.jpg
+general/genma.jpg https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/genma.jpg
+general/hachisenbonnojutsu.jpg  https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/hachisenbonnojutsu.jpg
+general/hinatanivel5.jpg  https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/hinatanivel5.jpg
+general/hoshigakikisame.jpg https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/hoshigakikisame.jpg
+general/inolvl3efecto.jpg https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/inolvl3efecto.jpg
+general/inonivel5.jpg https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/inonivel5.jpg
+general/inuzukakiba2.jpg  https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/inuzukakiba2.jpg
+general/iryoninjutsu.jpg  https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/iryoninjutsu.jpg
+general/jonintaikijo.jpg https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/jonintaikijo.jpg
+general/kagemane.jpg  https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/kagemane.jpg
+general/katsuyudaibunretsu.jpg  https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/katsuyudaibunretsu.jpg
+general/mangekyosharingan.jpg https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/mangekyosharingan.jpg
+general/mushikamenojutsu.jpg  https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/mushikamenojutsu.jpg
+general/pinzastijera.jpg  https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/pinzastijera.jpg
+general/raiga.jpg https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/raiga.jpg
+general/sakonukoncurse1.jpg https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/sakonukoncurse1.jpg
+general/shikachunin2.jpg  https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/shikachunin2.jpg
+general/shizune.jpg https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/shizune.jpg
+general/shukakunohoko.jpg https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/shukakunohoko.jpg
+general/shurikenkagebunshin.jpg https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/shurikenkagebunshin.jpg
+general/simbolodeotogakure.jpg  https://raw.githubusercontent.com/FernanOyana/YGONaruto/main/simbolodeotogakure.jpg
